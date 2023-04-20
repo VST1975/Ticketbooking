@@ -1,0 +1,28 @@
+body{
+    background: url("./Payment.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Paymentform{
+    width: 400px;
+    margin: 250px auto;
+    padding: 10px 20px 30px;
+    background-color: rgb(0,0,0,.5);
+    color: white;
+    font-size:15px;
+    border-radius: 10px;
+}
+.Paymentform h3{
+    color: rgb(0, 217, 255);
+}
+.btn{ 
+    text-align: center
+}
+button{
+    background-color: rgb(165, 42, 155);
+    font-size: 20px;
+    color:rgb(0, 250, 229);
+    border-radius: 8px;
+}

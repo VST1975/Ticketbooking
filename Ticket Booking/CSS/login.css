@@ -1,0 +1,45 @@
+body{
+    background: url("./Lock.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.loginform{
+    width: 250px;
+    margin: 250px auto;
+    padding: 10px 20px 30px;
+    background-color: rgb(0,0,0,.5);
+    color: white;
+    font-size:15px;
+    border-radius: 10px;
+}
+.loginform h1{
+    text-align: center;
+    color: rgb(220, 20, 20);
+    display: block;
+}
+.loginform  label{
+    position: absolute;
+    color: rgb(13, 193, 238);
+    top: 0;
+    left: 0;
+    padding: 10px 0;
+    font-size: 16px;
+    pointer-events: none;
+    transition: .5s;
+}
+
+.input input{
+    width: 100%;
+  padding: 10px 0;
+  font-size: 16px;
+  margin-bottom: 30px;
+  color: #fff;
+  border: 1px solid #fff;
+  border: none;
+  border-bottom-style: solid;
+  outline: none;
+  letter-spacing: 1px;
+  background: transparent;
+}

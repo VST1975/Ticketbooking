@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+    text-align: center;
+}
+.Buslist{
+    width: 650px;
+    margin: 250px auto;
+    padding: 10px 20px 30px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgb(81, 255, 0);
+    font-size:18px;
+    border-radius: 15px;
+}
+}
